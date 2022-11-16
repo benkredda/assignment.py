@@ -27,6 +27,7 @@ once finding it the robot has to release the silver token,move backward and on t
 six times, that's why i wrote the equation **j = j+1** and j=6, after pairing all the boxes we excit and break to stop 
 the robot.  
 
-please find attached the flowchart in pdf named **flowchart of the first assignment** , and the code in a file named **assignment.py** 
+please find attached the flowchart in pdf named **flowchart of the first assignment** , and the code in a file named 
+**assignment.py** 
 
-[flowchart.of.the.first.assignment.pdf](https://github.com/benkredda/assignment.py/files/10016921/flowchart.of.the.first.assignment.pdf)
+[flowchart of the first assignment...pdf](https://github.com/benkredda/assignment.py/files/10021545/flowchart.of.the.first.assignment.pdf)
